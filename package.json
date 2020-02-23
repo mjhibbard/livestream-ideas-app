@@ -1,0 +1,20 @@
+{
+  "name": "livestream-idea-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@feathersjs/express": "^4.5.0",
+    "@feathersjs/feathers": "^4.5.0",
+    "@feathersjs/socketio": "^4.5.0",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {}
+}
